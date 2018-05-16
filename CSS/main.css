@@ -1,0 +1,24 @@
+body{
+  background: linear-gradient(to right, #0099ff 2%, #ff3300 103%);
+}
+button.btn-primary{
+margin-left: 200px;
+}
+div.form-group h1 {
+  text-align: center;
+  font-family: 'Kavivanar', cursive;
+}
+div.special h1{
+  text-align: center;
+  font-family: 'Kavivanar', cursive;
+  color: white;
+}
+div.special img{
+  padding-left: 130px;
+
+}
+div.special p{
+  text-align: center;
+  font-family: 'Kavivanar', cursive;
+  color: white;
+}
